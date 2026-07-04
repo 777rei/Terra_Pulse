@@ -6,6 +6,8 @@ TERRA PULSE
 
 **Created by [Rei](https://terrapulse.dpdns.org/)** · MIT License
 
+https://terrapulse.dpdns.org/
+
 ---
 
 ## 🌍 What is TERRA PULSE?
