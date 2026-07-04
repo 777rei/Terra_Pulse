@@ -211,14 +211,11 @@ terra-pulse/
 
 ##  Stats
 
-- **50 files**
-- **11,000+ lines** of code
-- **31 views**
 - **470+ icons**
 - **8 themes**
 - **15+ free APIs**
 - **Zero dependencies**
-- **~1MB total size**
+
 
 ---
 
@@ -277,7 +274,7 @@ Contributions are welcome! Please:
 
 ##  License
 
-MIT License — free to use, modify, and distribute.
+MIT License — 
 
 ---
 
